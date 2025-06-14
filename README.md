@@ -28,8 +28,8 @@ Below are screenshots showcasing the Sorting Visualizer in various states:
 
 ![Sorting Visualizer Demo]![Image 1](Image/img1.png)
 ![Image 2](Image/img2.png)
-![Image 3](image/img3.png)
-![Image 4](image/img4.png)
+![Image 3](Image/img3.png)
+![Image 4](Image/img4.png)
 
 Randomly generated array before sorting.
 Bars highlighted in red during comparisons.
@@ -43,20 +43,8 @@ Clone the repository: git clone <repository-url>
 Alternatively, download the project files as a ZIP and extract them.
 
 📂 File Structure:sorting-visualizer/
-├── index.html
-├── style.css
-├── main.js
-├── bubble.js
-├── selection.js
-├── insertion.js
-├── quick.js
-├── merge.js
-├── screenshots/
-│ ├── unsorted.png
-│ ├── sorting.png
-│ ├── sorting_merge.png
-│ ├── sorted.png
-└── README.md
+
+![Files Structure](Image/fs.png)
 
 🚀 Serve the Application:
 Open index.html in a modern web browser (e.g., Chrome, Firefox).
