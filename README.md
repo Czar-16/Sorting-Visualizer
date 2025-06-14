@@ -44,7 +44,7 @@ Alternatively, download the project files as a ZIP and extract them.
 
 📂 File Structure:sorting-visualizer/
 
-![Files Structure](Image/fs.png)
+![Image 5](Image/fs.png)
 
 🚀 Serve the Application:
 Open index.html in a modern web browser (e.g., Chrome, Firefox).
